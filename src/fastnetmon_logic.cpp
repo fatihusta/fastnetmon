@@ -1474,7 +1474,7 @@ void traffic_draw_ipv6_program() {
     }
 
     output_buffer << "FastNetMon " << fastnetmon_platform_configuration.fastnetmon_version
-                  << " Author: https://pavel-odintsov.com"
+                  << " Try Advanced edition: https://fastnetmon.com/product-overview/"
                   << "\n"
                   << "IPs ordered by: " << sort_parameter << "\n";
 
@@ -1524,7 +1524,7 @@ void traffic_draw_ipv4_program() {
     }
 
     output_buffer << "FastNetMon " << fastnetmon_platform_configuration.fastnetmon_version
-                  << " Author: https://pavel-odintsov.com"
+                  << " Try Advanced edition: https://fastnetmon.com/product-overview/"
                   << "\n"
                   << "IPs ordered by: " << sort_parameter << "\n";
 
