@@ -26,7 +26,6 @@ By installing or using this software, you confirm that you have read and agree t
 - [Linux install instructions](https://fastnetmon.com/install/)
 - [macOS install instructions](https://formulae.brew.sh/formula/fastnetmon)
 - [FreeBSD port](https://www.freshports.org/net-mgmt/fastnetmon/)
-- [VyOS bundled support](https://fastnetmon.com/fastnetmon-community-on-vyos-rolling-1-3/)
 
 Supported packet capture engines
 --------------------------------
